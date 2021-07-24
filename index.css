@@ -31,6 +31,6 @@ figcaption {
     text-align: center;
 }
 .container{
-    background-image: url();
+    background-image: url(img/hai.jpeg);
     background-size: cover;
 }
